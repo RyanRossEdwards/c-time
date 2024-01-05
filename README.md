@@ -1,2 +1,2 @@
 # c-time
-it's time for c
+it's time for c!
